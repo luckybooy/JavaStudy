@@ -1,0 +1,28 @@
+
+?squid:S2111"!Use "BigDecimal.valueOf" instead.(¯ç–ó8î°‹†.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á§™ƒ8²û¶‹†.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã¦Òò8²û¶‹†.
+dsquid:CallToDeprecatedMethod"0Remove this use of "setScale"; it is deprecated.(¥Æú«üÿÿÿÿ8¶í®‹†.
+dsquid:CallToDeprecatedMethod"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(‰Âşñ8¶Ê¡‹†.
+dsquid:CallToDeprecatedMethod"0Remove this use of "setScale"; it is deprecated.(€×ÿğşÿÿÿÿ8Ùÿ³‹†.
+isquid:CallToDeprecatedMethod"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(£Üéÿÿÿÿÿ8¶Ê¡‹†.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÊØ¯¤8­‹†.
+dsquid:CallToDeprecatedMethod"0Remove this use of "setScale"; it is deprecated.(ï™À³ûÿÿÿÿ8Éé³‹†.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥Æú«üÿÿÿÿ8ÒÀ“‹†.
+?squid:S2111"!Use "BigDecimal.valueOf" instead.(¸‘…ç8ÒÀ“‹†.
+?squid:S2111"!Use "BigDecimal.valueOf" instead.(íô8¶Ê¡‹†.
+Dsquid:S2111"!Use "BigDecimal.valueOf" instead.(êª´ıÿÿÿÿ8î°‹†.
+_squid:CallToDeprecatedMethod"0Remove this use of "setScale"; it is deprecated.(‰Âşñ8¶Ê¡‹†.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÛîùÿÿÿÿ8¶Ê¡‹†.
+1squid:S1220""Move this file to a named package.
+Dsquid:S2111"!Use "BigDecimal.valueOf" instead.(¾ö¤ıÿÿÿÿ8¶Ê¡‹†.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿèŞ·8¶Ê¡‹†.
+dsquid:CallToDeprecatedMethod"0Remove this use of "setScale"; it is deprecated.(£Üéÿÿÿÿÿ8¶Ê¡‹†.
+isquid:CallToDeprecatedMethod"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(ï™À³ûÿÿÿÿ8Éé³‹†.
+isquid:CallToDeprecatedMethod"5Remove this use of "ROUND_CEILING"; it is deprecated.(¥Æú«üÿÿÿÿ8¶í®‹†.
+isquid:CallToDeprecatedMethod"5Remove this use of "ROUND_CEILING"; it is deprecated.(€×ÿğşÿÿÿÿ8º»‹†.

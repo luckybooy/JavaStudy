@@ -1,0 +1,13 @@
+/***idea 常用快捷键整理***/
+1、psvm              生成主方法
+2、sout              快速输入打印
+3、alt+insert        快速生成构造器/get/set、toString方法
+4、fori              快速生成一个循环体
+5、.for[集合.for]     快速生成一个遍历集合的循环体
+6、ctrl+b            快速定位方法体
+7、ctrl+n            快速查找类
+8、ctrl+;            快速调取提示
+9、alt+enter         快速生成对应的变量名
+10、ctrl+alt+t       快速调取if/try...catch等包围式代码块
+
+

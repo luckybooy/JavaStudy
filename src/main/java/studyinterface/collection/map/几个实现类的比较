@@ -1,0 +1,9 @@
+HashMap,TreeMap,Hashtable,LinkedHashMap
+HashMap 特点是：1.无序 2.键值对存在 3.只能有一个key是null,可以有多个value是null
+               4.非线程安全 5.key具有唯一性 (HashMap也是日常项目中最长用到的)
+
+TreeMap 和HashMap比较,就多了一个key不能为空 这一点
+
+Hashtable和HashMap 对比的话 两点不同 1.HashTablez中 不允许有空值的存在,包括key和value 2.现场安全
+
+LinkedHashMap   和HashMap 比较的话 就是 LinkedHashMap 是有序的根据key的值进行排序
