@@ -1,7 +1,7 @@
 package games;
 
 import com.sun.corba.se.spi.orb.StringPair;
-import lombok.Data;
+
 
 /**
  * @program: JavaStudy
